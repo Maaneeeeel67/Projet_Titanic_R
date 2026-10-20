@@ -1,0 +1,16 @@
+﻿# Fichiers temporaires R
+.RData
+.Rhistory
+.Rproj.user
+
+# Graphiques générés (on ne versionne pas les images de sortie)
+outputs/
+
+# OS & IDE
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
+# Fichiers RStudio et Images
+*.Rproj
+*.png
